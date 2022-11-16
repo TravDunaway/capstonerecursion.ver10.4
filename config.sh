@@ -1,0 +1,1 @@
+export POSTGRES_URI="postgresql://tdmacbookpro:kate@localhost:5432/parks"
